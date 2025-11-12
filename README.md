@@ -41,7 +41,7 @@ Permite **crear, editar y eliminar pacientes**, con una experiencia de usuario f
 
    ```bash
    git clone https://github.com/Faridleo1998/pacientes-react.git
-   cd veterinaria-pacientes
+   cd pacientes-react
    ```
 
 2. Instala las dependencias:
